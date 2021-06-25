@@ -10,9 +10,9 @@ var database;
 
 
 function preload(){
-    dog=loadImage("images/dog.png")
-    happyDog=loadImage("images/happyDog.png")
-    milkImg=loadImage("images/Milk.png")
+    dog=loadImage("dog.png")
+    happyDog=loadImage("happyDog.png")
+    milkImg=loadImage("Milk.png")
     
 }
 
